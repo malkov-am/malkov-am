@@ -15,3 +15,5 @@
 <a href='https://t.me/malkov_am'><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' /></a>
 <a href='https://wa.me/+79251117364'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' /></a>
 <a href='mailto:am.malkov91@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
+<a href='https://www.codewars.com/users/gWildCat'><img src='https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white' /></a>
+
